@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Интервальное кодирование
+Comment=Демонстрация интервального кодирования
+Exec=chos
+Icon=chos
+Categories=Education;Utility;
+Terminal=false
